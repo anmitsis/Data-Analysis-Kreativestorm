@@ -1,7 +1,7 @@
 # Data-Analysis-Kreativstorm
 Welcome to the Data Analysis Repository, showcasing my journey through four mini homework assignments and a comprehensive main data analysis project completed during my one-month training program with KreativStorm.
 ## Homework 1
-Description: In this assignment, I delved into basic R functions and experimented with different commands. The objective was to get a good understanding of the data I possese].
+Description: In this assignment, I delved into basic R functions and experimented with different commands. The objective was to get a good understanding of the data I possesed.
 
 ## Homework 2:
 Description: Homework 2 focused on indexing, sclicing and transforming variables. This assignment laid the groundwork for more complex analyses.
